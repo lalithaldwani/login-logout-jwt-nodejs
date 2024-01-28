@@ -33,7 +33,7 @@ This app includes following APIs:
     Bearer Token : YOUR_TOKEN_HERE (select Bearer token then place your token in token section)
   ```
 
-  - **Produce List** `http://localhost:8000/product/listProduct` : This will require a token passed in header and data in GET request
+  - **Product List** `http://localhost:8000/product/listProduct` : This will require a token passed in header and data in GET request
 
   ###### Header part:
 
