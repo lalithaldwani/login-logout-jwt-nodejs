@@ -60,3 +60,4 @@ NodeJS
 **App Execution**
 
 - `npm run serve`
+- for test cases  - `npm run test`
